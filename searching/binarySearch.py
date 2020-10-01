@@ -1,4 +1,5 @@
 #	BINARY SEARCH(recusively)
+#pull request
 def binarySearch(start,end,array,item):
 	#terminating condition
 	if start>end:
